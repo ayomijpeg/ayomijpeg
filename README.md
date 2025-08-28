@@ -1,4 +1,6 @@
 # Hi there, I'm Ayomi Tomiwa 👋
+  <p><em>Software Developer • ALX Frontend ProDev • Turning ideas into scalable web & mobile apps</em></p>
+
 
 
 ## About Me 🚀
