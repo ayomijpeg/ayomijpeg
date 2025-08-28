@@ -1,6 +1,6 @@
 # Hi there, I'm Ayomi Tomiwa 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://example.com/your-chosen-banner-image.png)
 
 ## About Me 🚀
 
@@ -31,7 +31,7 @@ I enjoy solving real-world problems, building scalable apps, and learning from e
 
 ### [Hospital Management Dashboard](project_1_link)
 
-![Screenshot](project_1_screenshot_url)
+![Project Screenshot](https://example.com/project-placeholder.png)
 
 A **Next.js + React + MySQL** based app for managing doctors, patients, and billing.  
 - Streamlined hospital workflows and scheduling  
@@ -43,7 +43,8 @@ A **Next.js + React + MySQL** based app for managing doctors, patients, and bill
 
 ### [Blog Platform](project_2_link)
 
-![Screenshot](project_2_screenshot_url)
+
+![Project Screenshot](https://example.com/project-placeholder.png)
 
 A **PHP + MySQL** blogging platform that allows writers to publish blogs and newsletters with admin dashboard support.  
 - Showcases **CRUD operations, authentication, and CMS-like design**  
