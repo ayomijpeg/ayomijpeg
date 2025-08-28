@@ -1,6 +1,6 @@
 # Hi there, I'm Ayomi Tomiwa 👋
 
-![Banner Image](https://example.com/your-chosen-banner-image.png)
+![Banner Image](https://static.vecteezy.com/system/resources/previews/034/828/059/non_2x/cute-man-working-on-computer-with-coffee-cartoon-icon-illustration-people-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg)
 
 ## About Me 🚀
 
