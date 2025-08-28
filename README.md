@@ -1,6 +1,5 @@
 # Hi there, I'm Ayomi Tomiwa 👋
 
-![Banner Image](https://static.vecteezy.com/system/resources/previews/034/828/059/non_2x/cute-man-working-on-computer-with-coffee-cartoon-icon-illustration-people-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg)
 
 ## About Me 🚀
 
@@ -31,7 +30,7 @@ I enjoy solving real-world problems, building scalable apps, and learning from e
 
 ### [Hospital Management Dashboard](project_1_link)
 
-![Project Screenshot](https://example.com/project-placeholder.png)
+
 
 A **Next.js + React + MySQL** based app for managing doctors, patients, and billing.  
 - Streamlined hospital workflows and scheduling  
@@ -44,7 +43,6 @@ A **Next.js + React + MySQL** based app for managing doctors, patients, and bill
 ### [Blog Platform](project_2_link)
 
 
-![Project Screenshot](https://example.com/project-placeholder.png)
 
 A **PHP + MySQL** blogging platform that allows writers to publish blogs and newsletters with admin dashboard support.  
 - Showcases **CRUD operations, authentication, and CMS-like design**  
