@@ -27,10 +27,9 @@
 
 I focus on tools that prioritize type safety, compilation speed, and UI consistency.
 
-| **Core** | **Frontend Ecosystem** | **Backend & Data** | **Mobile** |
+| **Core** | **Frontend Ecosystem** | **Backend & Data** 
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> | <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> |
-
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> 
 <br/>
 
 ---
@@ -51,12 +50,13 @@ I build software that balances technical constraints with aesthetic precision.
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayomijpeg&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9CA3AF&icon_color=3B82F6&hide=stars" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomijpeg&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9CA3AF&hide=html,css" height="150" alt="languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayomijpeg&show_icons=true&count_private=true&hide=stars&bg_color=09090b&title_color=ffffff&text_color=a1a1aa&icon_color=3b82f6&border_color=27272a&border_radius=10&hide_border=false" height="150" alt="stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomijpeg&layout=compact&bg_color=09090b&title_color=ffffff&text_color=a1a1aa&border_color=27272a&border_radius=10&hide_border=false&hide=css,html" height="150" alt="languages" />
+  </a>
 </div>
-
-<br/>
-
 ---
 
 <div align="center">
