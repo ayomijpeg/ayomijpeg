@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=09090b&height=280&section=header&text=Opeyemi%20Ayomi&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Frontend%20Architecture%20&descSize=20&fontAlign=50&animation=fadeIn" width="100%" alt="Header" />
-</div>
 
-<br/>
 
 <div align="center">
   <p align="center">
@@ -47,7 +43,6 @@ I build software that balances technical constraints with aesthetic precision.
 |:--- | :--- | :--- |
 | **[Project Nexus](https://ayomi-project-nexus.vercel.app/)** <br> *High-Frequency Product Engine* | Engineered a PWA-ready e-commerce catalog featuring **optimistic UI updates** and **client-side memoization** to handle large datasets without server latency. Implemented an Adapter Pattern to normalize diverse API schemas. | ![React](https://img.shields.io/badge/React-black) ![Redux](https://img.shields.io/badge/Redux_Toolkit-black) ![Vite](https://img.shields.io/badge/Vite-black) |
 | **[MedCore Dashboard](https://hospital-dashboard-henna-beta.vercel.app/)** <br> *Healthcare Administration* | A compliant admin system managing sensitive patient data. Features include secure role-based authentication, real-time practitioner scheduling, and complex data visualization. | ![Next.js](https://img.shields.io/badge/Next.js-black) ![PostgreSQL](https://img.shields.io/badge/Postgres-black) ![Prisma](https://img.shields.io/badge/Prisma-black) |
-| **[Glidex Interface](https://github.com/ayomijpeg)** <br> *Logistics Component Library* | Built modular UI components to accelerate internal development speed. Focused on accessibility (WCAG) and reduced bundle size via code-splitting strategies. | ![TypeScript](https://img.shields.io/badge/TypeScript-black) ![Tailwind](https://img.shields.io/badge/Tailwind-black) |
 
 <br/>
 
